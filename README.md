@@ -1,2 +1,3 @@
 # PDF-Reader
-its a trial PDF reader so that you have option to convert 
+its a PDF reader so that you have option to convert your book normal book to audiobook 
+
